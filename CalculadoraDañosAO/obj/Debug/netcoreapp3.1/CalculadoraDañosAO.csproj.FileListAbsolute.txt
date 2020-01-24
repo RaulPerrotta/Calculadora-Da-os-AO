@@ -1,0 +1,14 @@
+C:\Users\perro\source\repos\CalculadoraDañosAO\bin\Debug\netcoreapp3.1\CalculadoraDañosAO.exe
+C:\Users\perro\source\repos\CalculadoraDañosAO\obj\Debug\netcoreapp3.1\CalculadoraDañosAO.AssemblyInfoInputs.cache
+C:\Users\perro\source\repos\CalculadoraDañosAO\obj\Debug\netcoreapp3.1\CalculadoraDañosAO.AssemblyInfo.cs
+C:\Users\perro\source\repos\CalculadoraDañosAO\obj\Debug\netcoreapp3.1\CalculadoraDañosAO.csproj.CopyComplete
+C:\Users\perro\source\repos\CalculadoraDañosAO\bin\Debug\netcoreapp3.1\CalculadoraDañosAO.deps.json
+C:\Users\perro\source\repos\CalculadoraDañosAO\bin\Debug\netcoreapp3.1\CalculadoraDañosAO.runtimeconfig.json
+C:\Users\perro\source\repos\CalculadoraDañosAO\bin\Debug\netcoreapp3.1\CalculadoraDañosAO.runtimeconfig.dev.json
+C:\Users\perro\source\repos\CalculadoraDañosAO\bin\Debug\netcoreapp3.1\CalculadoraDañosAO.dll
+C:\Users\perro\source\repos\CalculadoraDañosAO\bin\Debug\netcoreapp3.1\CalculadoraDañosAO.pdb
+C:\Users\perro\source\repos\CalculadoraDañosAO\bin\Debug\netcoreapp3.1\Alba.CsConsoleFormat.dll
+C:\Users\perro\source\repos\CalculadoraDañosAO\bin\Debug\netcoreapp3.1\Portable.Xaml.dll
+C:\Users\perro\source\repos\CalculadoraDañosAO\obj\Debug\netcoreapp3.1\CalculadoraDañosAO.dll
+C:\Users\perro\source\repos\CalculadoraDañosAO\obj\Debug\netcoreapp3.1\CalculadoraDañosAO.pdb
+C:\Users\perro\source\repos\CalculadoraDañosAO\bin\Debug\netcoreapp3.1\INIFileParser.dll
